@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# signing material — kabhi commit mat karna (GitHub Secrets use hota hai)
+keystore/
+*.keystore

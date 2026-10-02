@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Full lockup for splash + login header: aurora squircle tile with the
+     "Rising Check" mark + gold achievement star. Vector → crisp at any size. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- aurora tile -->
+    <path android:pathData="M22,0 H74 A22,22 0 0 1 96,22 V74 A22,22 0 0 1 74,96 H22 A22,22 0 0 1 0,74 V22 A22,22 0 0 1 22,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="0"
+                android:startY="0"
+                android:endX="96"
+                android:endY="96">
+                <item android:offset="0" android:color="#FF4338CA" />
+                <item android:offset="0.45" android:color="#FF7C3AED" />
+                <item android:offset="1" android:color="#FFDB2777" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- light bloom, top-left -->
+    <path android:pathData="M22,0 H74 A22,22 0 0 1 96,22 V74 A22,22 0 0 1 74,96 H22 A22,22 0 0 1 0,74 V22 A22,22 0 0 1 22,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="21"
+                android:centerY="17"
+                android:gradientRadius="66">
+                <item android:offset="0" android:color="#26FFFFFF" />
+                <item android:offset="1" android:color="#00FFFFFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- vignette, bottom-right -->
+    <path android:pathData="M22,0 H74 A22,22 0 0 1 96,22 V74 A22,22 0 0 1 74,96 H22 A22,22 0 0 1 0,74 V22 A22,22 0 0 1 22,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="82"
+                android:centerY="88"
+                android:gradientRadius="76">
+                <item android:offset="0" android:color="#4D2E1065" />
+                <item android:offset="1" android:color="#002E1065" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- tight drop shadow -->
+    <group android:translateY="2.3">
+        <path
+            android:pathData="M29.9,52.9 L40.6,63.6 L59.8,39.7"
+            android:strokeColor="#591E1B4B"
+            android:strokeWidth="12.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+
+    <!-- main glossy stroke -->
+    <path
+        android:pathData="M29.9,52.9 L40.6,63.6 L59.8,39.7"
+        android:strokeWidth="12.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="48"
+                android:startY="35"
+                android:endX="48"
+                android:endY="68">
+                <item android:offset="0" android:color="#FFFFFFFF" />
+                <item android:offset="0.62" android:color="#FFFFFFFF" />
+                <item android:offset="1" android:color="#FFDDD8FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- specular sheen along the rising arm -->
+    <group android:translateY="-1.9">
+        <path
+            android:pathData="M40.6,63.6 L59.8,39.7"
+            android:strokeColor="#6BFFFFFF"
+            android:strokeWidth="4.1"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+
+    <!-- gold star glow -->
+    <path
+        android:fillColor="#38FBBF24"
+        android:pathData="M52.4,29.3 A9.8,9.8 0 1 0 72,29.3 A9.8,9.8 0 1 0 52.4,29.3 Z" />
+
+    <!-- achievement star -->
+    <path android:pathData="M62.2,22.6 C63,26.26 65.22,28.5 68.9,29.3 C65.22,30.1 63,32.34 62.2,36 C61.4,32.34 59.18,30.1 55.5,29.3 C59.18,28.5 61.4,26.26 62.2,22.6 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="55.5"
+                android:startY="22.6"
+                android:endX="68.9"
+                android:endY="36">
+                <item android:offset="0" android:color="#FFFDE68A" />
+                <item android:offset="0.55" android:color="#FFFBBF24" />
+                <item android:offset="1" android:color="#FFF59E0B" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- star hot core -->
+    <path
+        android:fillColor="#F2FFFFFF"
+        android:pathData="M62.2,27 C62.5,28.44 63.06,29 64.5,29.3 C63.06,29.6 62.5,30.16 62.2,31.6 C61.9,30.16 61.34,29.6 59.9,29.3 C61.34,29 61.9,28.44 62.2,27 Z" />
+</vector>

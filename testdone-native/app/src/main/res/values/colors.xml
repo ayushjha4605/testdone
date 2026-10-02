@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#09090B</color>
+    <color name="icon_gradient_start">#4338CA</color>
+    <color name="icon_gradient_center">#7C3AED</color>
+    <color name="icon_gradient_end">#DB2777</color>
+    <color name="ic_launcher_background_tint">#7C3AED</color>
+</resources>

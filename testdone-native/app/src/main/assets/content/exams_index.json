@@ -1,0 +1,2253 @@
+{
+ "exams": [
+  {
+   "id": "jee-main",
+   "name": "JEE Main",
+   "shortName": "JEE Main",
+   "category": "engineering",
+   "icon": "⚡",
+   "description": "JEE Main (Joint Entrance Examination Main) - comprehensive practice content.",
+   "color": "#6366F1",
+   "gradient": "linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%)",
+   "difficulty": "Hard",
+   "candidateBase": 1200000,
+   "subjects": [
+    {
+     "id": "physics",
+     "name": "Physics",
+     "icon": "⚛️",
+     "questionCount": 286,
+     "topics": [
+      "Mechanics",
+      "Thermodynamics & KTG",
+      "Waves & Sound",
+      "Electrostatics",
+      "Current Electricity",
+      "Magnetism & EMI",
+      "Optics",
+      "Modern Physics",
+      "Units & Measurements",
+      "SHM",
+      "Collision",
+      "Sound",
+      "KTG",
+      "Semiconductor",
+      "Momentum",
+      "Thermodynamics",
+      "Meter Bridge",
+      "Energy",
+      "Errors",
+      "Kinematics",
+      "Lens",
+      "Galvanometer",
+      "Capacitance",
+      "Gravitation",
+      "Rotational",
+      "Bohr Model",
+      "Thermo",
+      "Circular Motion",
+      "EMI",
+      "Nuclear",
+      "Energy Conservation",
+      "Coulomb'S Law",
+      "AC",
+      "Resistivity",
+      "Sound Intensity",
+      "Communication",
+      "Photoelectric",
+      "Surface Tension",
+      "Units",
+      "Bonding",
+      "Interference",
+      "Elasticity",
+      "YDSE",
+      "X Rays",
+      "Laws Of Motion",
+      "Resistance",
+      "Rotational Motion",
+      "Refraction",
+      "Kirchhoff",
+      "Biot Savart",
+      "Units & Dimensions",
+      "Nuclei",
+      "Magnetism",
+      "Friction",
+      "Pulley",
+      "Electric Dipole",
+      "Atomic",
+      "AC Circuits",
+      "Specific Heat",
+      "Buoyancy",
+      "Inductor",
+      "Torque",
+      "Zener Diode",
+      "Potential",
+      "Transformer",
+      "Collisions",
+      "Doppler",
+      "Energy In Capacitor",
+      "Mass Energy",
+      "Heat Engine",
+      "Magnetic Force",
+      "Wave",
+      "TIR",
+      "Polarization",
+      "Telescope",
+      "Magnetic Field",
+      "Projectile",
+      "Logic Gate",
+      "Logic",
+      "Current",
+      "Dielectric",
+      "Potential Energy",
+      "Waves",
+      "Bohr",
+      "Fluids",
+      "Latent Heat",
+      "Reflection",
+      "Heat",
+      "Modern",
+      "Diffraction",
+      "Atomic Physics",
+      "Doppler Effect",
+      "Work Energy",
+      "Power",
+      "Wheatstone Bridge",
+      "Nuclear Physics",
+      "Ohm'S Law",
+      "Drift Velocity",
+      "Capacitor Energy",
+      "Radioactivity",
+      "Gauss Law",
+      "Field",
+      "Cells",
+      "Heat Transfer",
+      "Adiabatic",
+      "Lenz'S Law",
+      "Fluid Mechanics",
+      "Wave Speed",
+      "Center Of Mass",
+      "Capacitor",
+      "Tension",
+      "Mirror",
+      "EMF",
+      "Projectile Motion",
+      "Gauss'S Law",
+      "Electric Field",
+      "Circuits",
+      "Cyclotron",
+      "De Broglie",
+      "Field Lines",
+      "Hydrogen Spectrum",
+      "EM Waves",
+      "Capacitors"
+     ]
+    },
+    {
+     "id": "chemistry",
+     "name": "Chemistry",
+     "icon": "🧪",
+     "questionCount": 304,
+     "topics": [
+      "Physical Chemistry",
+      "Inorganic Chemistry",
+      "Organic Chemistry",
+      "Equilibrium",
+      "Coordination",
+      "Biomol",
+      "Periodic",
+      "Acids",
+      "D Block",
+      "Polymers",
+      "Salt Analysis",
+      "Everyday",
+      "Mole Concept",
+      "GOC",
+      "Surface",
+      "Hydrocarbons",
+      "F Block",
+      "Metallurgy",
+      "Solutions",
+      "Entropy",
+      "Carboxylic Acids",
+      "Stoich",
+      "Alcohols",
+      "Amines",
+      "Salt",
+      "Bonding",
+      "Quantum Numbers",
+      "Electrochem",
+      "S Block",
+      "P Block",
+      "Chemical Bonding",
+      "Atomic",
+      "Kinetics",
+      "Electrochemistry",
+      "Thermodynamics",
+      "Organic",
+      "Mole",
+      "Carbonyl",
+      "Atomic Structure",
+      "Buffer",
+      "Polymer",
+      "Hydrocarbon",
+      "Phenols",
+      "Biomolecules",
+      "Surface Chem",
+      "Bond Energy",
+      "Alcohol",
+      "Aromatic",
+      "Periodic Table",
+      "Haloalkanes",
+      "Free Energy",
+      "Organic Test",
+      "Colligative",
+      "Chem Everyday",
+      "Amine",
+      "Hydrogen",
+      "PH",
+      "Le Chatelier",
+      "Hess Law",
+      "Everyday Chem",
+      "Isomerism",
+      "Solubility",
+      "Stoichiometry",
+      "Acid",
+      "Hydrogen Bond",
+      "Organic Reaction",
+      "Aldehydes Ketones"
+     ]
+    },
+    {
+     "id": "mathematics",
+     "name": "Mathematics",
+     "icon": "➗",
+     "questionCount": 343,
+     "topics": [
+      "Algebra",
+      "Calculus",
+      "Coordinate Geometry",
+      "Trigonometry",
+      "Vectors & 3D",
+      "Probability & Statistics",
+      "Integration",
+      "Coordinate",
+      "AOD",
+      "Binomial",
+      "Straight Lines",
+      "3D Geometry",
+      "Sequence",
+      "Definite",
+      "Statistics",
+      "Complex",
+      "Stats",
+      "3D",
+      "Differentiation",
+      "Differential Equations",
+      "Vector",
+      "Complex Numbers",
+      "Derivative",
+      "DE",
+      "Probability",
+      "Circles",
+      "Quadratic",
+      "Limit",
+      "Conics",
+      "Vectors",
+      "Permutations",
+      "Limits",
+      "Integral",
+      "Matrix",
+      "Functions",
+      "Trig",
+      "Inverse Trig",
+      "Prob",
+      "Continuity",
+      "Ellipse",
+      "Sets",
+      "Matrices",
+      "Hyperbola",
+      "Determinants",
+      "Inequalities",
+      "Logic"
+     ]
+    }
+   ],
+   "questionCount": 933,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2025,
+    2024
+   ],
+   "durationMin": 180
+  },
+  {
+   "id": "jee-advanced",
+   "name": "JEE Advanced",
+   "shortName": "JEE Adv",
+   "category": "engineering",
+   "icon": "🎯",
+   "description": "JEE Advanced (Joint Entrance Examination Advanced) - comprehensive practice content.",
+   "color": "#F59E0B",
+   "gradient": "linear-gradient(135deg, #F59E0B 0%, #F97316 100%)",
+   "difficulty": "Very Hard",
+   "candidateBase": 180000,
+   "subjects": [
+    {
+     "id": "physics",
+     "name": "Physics",
+     "icon": "⚛️",
+     "questionCount": 98,
+     "topics": [
+      "Mechanics",
+      "Thermodynamics",
+      "Waves",
+      "Electrostatics",
+      "Current Electricity",
+      "Magnetism",
+      "Optics",
+      "Modern Physics",
+      "Rotational Motion",
+      "SHM",
+      "Gravitation",
+      "EMI",
+      "AC",
+      "Semiconductors",
+      "Nuclear",
+      "Modern",
+      "Logic",
+      "Current"
+     ]
+    },
+    {
+     "id": "chemistry",
+     "name": "Chemistry",
+     "icon": "🧪",
+     "questionCount": 99,
+     "topics": [
+      "Physical Chemistry",
+      "Inorganic Chemistry",
+      "Organic Chemistry",
+      "Chemical Bonding",
+      "Hydrocarbons",
+      "Carbonyl",
+      "Coordination",
+      "Solutions",
+      "D Block",
+      "Biomolecules",
+      "Bonding",
+      "Alcohols",
+      "Amines",
+      "Kinetics",
+      "Acids",
+      "P Block",
+      "Equilibrium",
+      "Electrochemistry",
+      "Polymers",
+      "Phenols",
+      "Periodic Table",
+      "GOC",
+      "Thermodynamics",
+      "Metallurgy",
+      "Haloalkanes",
+      "Mole Concept",
+      "Organic",
+      "Atomic Structure"
+     ]
+    },
+    {
+     "id": "mathematics",
+     "name": "Mathematics",
+     "icon": "➗",
+     "questionCount": 91,
+     "topics": [
+      "Algebra",
+      "Calculus",
+      "Coordinate Geometry",
+      "Trigonometry",
+      "Vectors & 3D",
+      "Probability & Statistics",
+      "Quadratic",
+      "Conics",
+      "Coordinate",
+      "Limit",
+      "AOD",
+      "Vectors",
+      "Derivative",
+      "Binomial",
+      "Complex",
+      "Integral",
+      "Circles",
+      "Probability",
+      "DE",
+      "Statistics",
+      "3D Geometry",
+      "Matrix",
+      "Sets",
+      "Sequence"
+     ]
+    }
+   ],
+   "questionCount": 288,
+   "mockCount": 5,
+   "pyqCount": 1,
+   "pyqYears": [],
+   "durationMin": 180
+  },
+  {
+   "id": "neet",
+   "name": "NEET",
+   "shortName": "NEET",
+   "category": "medical",
+   "icon": "🩺",
+   "description": "NEET (National Eligibility cum Entrance Test) - comprehensive practice content.",
+   "color": "#10B981",
+   "gradient": "linear-gradient(135deg, #10B981 0%, #059669 100%)",
+   "difficulty": "Hard",
+   "candidateBase": 2300000,
+   "subjects": [
+    {
+     "id": "physics",
+     "name": "Physics",
+     "icon": "⚛️",
+     "questionCount": 283,
+     "topics": [
+      "Mechanics",
+      "Thermodynamics & KTG",
+      "Waves & Sound",
+      "Electrostatics",
+      "Current Electricity",
+      "Magnetism & EMI",
+      "Optics",
+      "Modern Physics",
+      "Semiconductors",
+      "Sound",
+      "Nuclear",
+      "Magnetism",
+      "Meter Bridge",
+      "EMI",
+      "KTG",
+      "Waves",
+      "Circuits",
+      "Modern",
+      "Reflection",
+      "Rotational Motion",
+      "Lens",
+      "Thermodynamics",
+      "Power",
+      "Gauss Law",
+      "Capacitance",
+      "AC",
+      "Polarization",
+      "Gravitation",
+      "Logic Gates",
+      "Collisions",
+      "Communication",
+      "SHM",
+      "X Rays",
+      "Laws Of Motion",
+      "EM Waves",
+      "Work Energy",
+      "Cells",
+      "Ohm",
+      "Surface Tension",
+      "Semiconductor",
+      "Potential",
+      "Friction",
+      "YDSE",
+      "Heat",
+      "Refraction",
+      "Doppler",
+      "Errors",
+      "Circular Motion",
+      "Coulomb",
+      "Energy",
+      "Drift Velocity",
+      "Electric Field",
+      "Kinematics",
+      "Diffraction",
+      "Elasticity",
+      "Heat Transfer",
+      "Temperature",
+      "Fluid Mechanics",
+      "Potentiometer",
+      "Thermo",
+      "Projectile",
+      "Units",
+      "Units & Dimensions"
+     ]
+    },
+    {
+     "id": "chemistry",
+     "name": "Chemistry",
+     "icon": "🧪",
+     "questionCount": 301,
+     "topics": [
+      "Physical Chemistry",
+      "Inorganic Chemistry",
+      "Organic Chemistry",
+      "S Block",
+      "Kinetics",
+      "Alcohols",
+      "Thermodynamics",
+      "Biomolecules",
+      "Electrochemistry",
+      "P Block",
+      "Chemistry Everyday",
+      "F Block",
+      "Equilibrium",
+      "Isomerism",
+      "Polymers",
+      "Carbonyl",
+      "Redox",
+      "Stoichiometry",
+      "Metallurgy",
+      "Surface Chem",
+      "Hydrocarbons",
+      "Phenols",
+      "Solutions",
+      "Coordination",
+      "Haloalkanes",
+      "Bonding",
+      "States Of Matter",
+      "GOC",
+      "Carboxylic Acids",
+      "Amines",
+      "Salt Analysis",
+      "Periodic Table",
+      "Atomic Structure",
+      "D Block",
+      "Mole Concept",
+      "Hydrogen",
+      "Haloarenes"
+     ]
+    },
+    {
+     "id": "botany",
+     "name": "Botany",
+     "icon": "🌿",
+     "questionCount": 263,
+     "topics": [
+      "Cell Biology",
+      "Plant Physiology",
+      "Plant Anatomy",
+      "Plant Reproduction",
+      "Plant Classification",
+      "Genetics",
+      "Ecology",
+      "Reproduction",
+      "Photosynthesis",
+      "Repro",
+      "Respiration",
+      "Biotech",
+      "Endocrine",
+      "Plant Anat",
+      "Nervous",
+      "Plant Phys",
+      "Plant Classif",
+      "Excretion",
+      "Circulation",
+      "Health",
+      "Cell Bio",
+      "Plant Repro",
+      "Digestion"
+     ]
+    },
+    {
+     "id": "zoology",
+     "name": "Zoology",
+     "icon": "🐾",
+     "questionCount": 303,
+     "topics": [
+      "Human Physiology",
+      "Animal Classification",
+      "Reproduction",
+      "Biotechnology",
+      "Health & Disease",
+      "Ecology",
+      "Respiration",
+      "Digestion",
+      "Health Disease",
+      "Circulation",
+      "Repro",
+      "Excretion",
+      "Classification",
+      "Nervous",
+      "Nervous System",
+      "Movement",
+      "Classif",
+      "Biotech",
+      "Endocrine",
+      "Sensory",
+      "Health"
+     ]
+    }
+   ],
+   "questionCount": 1150,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2024,
+    2023,
+    2022,
+    2021,
+    2020
+   ],
+   "durationMin": 200
+  },
+  {
+   "id": "gate-cse",
+   "name": "GATE Computer Science",
+   "shortName": "GATE CSE",
+   "category": "engineering",
+   "icon": "💻",
+   "description": "GATE (Graduate Aptitude Test in Engineering) - Computer Science and Information Technology.",
+   "color": "#06B6D4",
+   "gradient": "linear-gradient(135deg, #06B6D4 0%, #3B82F6 100%)",
+   "difficulty": "Hard",
+   "candidateBase": 170000,
+   "subjects": [
+    {
+     "id": "general-aptitude",
+     "name": "General Aptitude",
+     "icon": "📊",
+     "questionCount": 0,
+     "topics": [
+      "Verbal Ability",
+      "Numerical Computation",
+      "Numerical Reasoning",
+      "Data Interpretation",
+      "Spatial Aptitude"
+     ]
+    },
+    {
+     "id": "engineering-mathematics",
+     "name": "Engineering Mathematics",
+     "icon": "➗",
+     "questionCount": 0,
+     "topics": [
+      "Discrete Mathematics",
+      "Linear Algebra",
+      "Calculus",
+      "Probability"
+     ]
+    },
+    {
+     "id": "digital-logic",
+     "name": "Digital Logic",
+     "icon": "📚",
+     "questionCount": 0,
+     "topics": [
+      "Boolean Algebra",
+      "Combinational/Sequential Circuits",
+      "Number Systems"
+     ]
+    },
+    {
+     "id": "computer-organization",
+     "name": "Computer Organization",
+     "icon": "💻",
+     "questionCount": 0,
+     "topics": [
+      "Machine Instructions",
+      "Addressing Modes",
+      "Memory Hierarchy",
+      "Pipelining"
+     ]
+    },
+    {
+     "id": "programming-data-structures",
+     "name": "Programming & Data Structures",
+     "icon": "📚",
+     "questionCount": 0,
+     "topics": [
+      "Programming In C",
+      "Arrays",
+      "Stacks",
+      "Queues",
+      "Linked Lists",
+      "Trees",
+      "Graphs"
+     ]
+    },
+    {
+     "id": "algorithms",
+     "name": "Algorithms",
+     "icon": "📚",
+     "questionCount": 0,
+     "topics": [
+      "Sorting",
+      "Searching",
+      "Dynamic Programming",
+      "Greedy",
+      "Graph Algorithms",
+      "Complexity"
+     ]
+    },
+    {
+     "id": "theory-of-computation",
+     "name": "Theory Of Computation",
+     "icon": "📚",
+     "questionCount": 0,
+     "topics": [
+      "Regular Languages",
+      "Context Free Grammars",
+      "Pushdown Automata",
+      "Turing Machines"
+     ]
+    },
+    {
+     "id": "databases",
+     "name": "Databases",
+     "icon": "📚",
+     "questionCount": 0,
+     "topics": [
+      "ER Model",
+      "Relational Model",
+      "SQL",
+      "Normalization",
+      "Transactions",
+      "Indexing"
+     ]
+    },
+    {
+     "id": "computer-networks",
+     "name": "Computer Networks",
+     "icon": "💻",
+     "questionCount": 0,
+     "topics": [
+      "OSI/TCP IP",
+      "IP Addressing",
+      "Routing",
+      "Transport Protocols",
+      "Application Protocols"
+     ]
+    },
+    {
+     "id": "operating-systems",
+     "name": "Operating Systems",
+     "icon": "📚",
+     "questionCount": 0,
+     "topics": [
+      "Processes",
+      "Threads",
+      "Scheduling",
+      "Synchronization",
+      "Memory Management",
+      "File Systems"
+     ]
+    },
+    {
+     "id": "ga",
+     "name": "GA",
+     "icon": "📚",
+     "questionCount": 71,
+     "topics": [
+      "Verbal",
+      "Quant",
+      "Reasoning"
+     ]
+    },
+    {
+     "id": "dbms",
+     "name": "DBMS",
+     "icon": "📚",
+     "questionCount": 55,
+     "topics": [
+      "Transactions",
+      "Concurrency",
+      "SQL",
+      "Normalization",
+      "Indexing",
+      "ER Model",
+      "Relational Model"
+     ]
+    },
+    {
+     "id": "cn",
+     "name": "CN",
+     "icon": "📚",
+     "questionCount": 47,
+     "topics": [
+      "MAC Layer",
+      "OSI Model",
+      "Security",
+      "TCP/IP",
+      "DNS",
+      "Application",
+      "Routing",
+      "HTTP",
+      "IP Addressing",
+      "IPv6",
+      "Data Link",
+      "ARP",
+      "Topologies"
+     ]
+    },
+    {
+     "id": "ds",
+     "name": "DS",
+     "icon": "📚",
+     "questionCount": 57,
+     "topics": [
+      "Tree",
+      "Algorithms",
+      "Complexity",
+      "Heap",
+      "Sorting",
+      "Queue",
+      "Graph",
+      "Arrays",
+      "Hash",
+      "Linked List",
+      "Stack"
+     ]
+    },
+    {
+     "id": "os",
+     "name": "OS",
+     "icon": "📚",
+     "questionCount": 60,
+     "topics": [
+      "File System",
+      "Process",
+      "I/O",
+      "Memory",
+      "Scheduling",
+      "Security",
+      "Sync",
+      "Disk",
+      "Deadlock"
+     ]
+    },
+    {
+     "id": "dm",
+     "name": "DM",
+     "icon": "📚",
+     "questionCount": 32,
+     "topics": [
+      "Graph Theory",
+      "Logic",
+      "Relations",
+      "Combinatorics",
+      "Functions",
+      "Number Theory",
+      "Algebra",
+      "Set Theory"
+     ]
+    },
+    {
+     "id": "toc",
+     "name": "TOC",
+     "icon": "📚",
+     "questionCount": 41,
+     "topics": [
+      "PDA",
+      "Complexity",
+      "Turing Machine",
+      "Context Free Grammar",
+      "Regular Languages",
+      "Complexity Classes",
+      "Closure",
+      "Finite Automata",
+      "Regular Expressions",
+      "Closure Properties",
+      "Arden'S Lemma",
+      "Decidability",
+      "Chomsky Hierarchy",
+      "Pushdown Automata",
+      "CFG",
+      "Reductions",
+      "TM"
+     ]
+    },
+    {
+     "id": "coa",
+     "name": "COA",
+     "icon": "📚",
+     "questionCount": 33,
+     "topics": [
+      "ALU",
+      "Interrupts",
+      "ISA",
+      "Cache",
+      "Number System",
+      "Pipelining",
+      "Addressing Modes",
+      "Memory Hierarchy",
+      "Memory"
+     ]
+    }
+   ],
+   "questionCount": 396,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021
+   ],
+   "durationMin": 180
+  },
+  {
+   "id": "upsc",
+   "name": "UPSC Civil Services",
+   "shortName": "UPSC CSE",
+   "category": "civil-services",
+   "icon": "🏛️",
+   "description": "UPSC Civil Services Examination (Prelims General Studies Paper I) - comprehensive practice content.",
+   "color": "#F97316",
+   "gradient": "linear-gradient(135deg, #F97316 0%, #DC2626 100%)",
+   "difficulty": "Very Hard",
+   "candidateBase": 1000000,
+   "subjects": [
+    {
+     "id": "history",
+     "name": "History",
+     "icon": "🏺",
+     "questionCount": 256,
+     "topics": [
+      "Ancient History",
+      "Medieval History",
+      "Modern History",
+      "Art & Culture",
+      "Freedom Struggle",
+      "Modern",
+      "Ancient",
+      "Medieval"
+     ]
+    },
+    {
+     "id": "polity",
+     "name": "Polity",
+     "icon": "⚖️",
+     "questionCount": 147,
+     "topics": [
+      "Constitution",
+      "Parliament",
+      "Executive",
+      "Judiciary",
+      "Federalism",
+      "Elections",
+      "Local Government",
+      "Constitutional Bodies",
+      "Amendments",
+      "Fundamental Rights",
+      "DPSP",
+      "State Government",
+      "President",
+      "Fundamental Duties"
+     ]
+    },
+    {
+     "id": "geography",
+     "name": "Geography",
+     "icon": "🗺️",
+     "questionCount": 179,
+     "topics": [
+      "Physical Geography",
+      "Climate",
+      "Indian Geography",
+      "World Geography",
+      "Resources",
+      "World",
+      "Indian",
+      "Physical"
+     ]
+    },
+    {
+     "id": "economy",
+     "name": "Economy",
+     "icon": "📈",
+     "questionCount": 185,
+     "topics": [
+      "Banking",
+      "Indicators",
+      "Sectors",
+      "Trade",
+      "Schemes"
+     ]
+    },
+    {
+     "id": "science-technology",
+     "name": "Science & Technology",
+     "icon": "🔬",
+     "questionCount": 0,
+     "topics": [
+      "Space",
+      "Defense",
+      "AI/IT",
+      "Biotech",
+      "Health",
+      "Energy",
+      "Communication"
+     ]
+    },
+    {
+     "id": "environment",
+     "name": "Environment",
+     "icon": "📚",
+     "questionCount": 147,
+     "topics": [
+      "Basics",
+      "Ecology",
+      "Conservation",
+      "Pollution",
+      "Climate",
+      "Sustainable Dev",
+      "Forests"
+     ]
+    },
+    {
+     "id": "current-affairs-ir",
+     "name": "Current Affairs & IR",
+     "icon": "📰",
+     "questionCount": 0,
+     "topics": [
+      "National",
+      "International",
+      "Sports",
+      "Economy",
+      "Science"
+     ]
+    },
+    {
+     "id": "sci-tech",
+     "name": "Sci Tech",
+     "icon": "📚",
+     "questionCount": 162,
+     "topics": [
+      "AI/IT",
+      "Defense",
+      "Energy",
+      "Biotech",
+      "Space",
+      "Health",
+      "Communication"
+     ]
+    },
+    {
+     "id": "current-affairs",
+     "name": "Current Affairs",
+     "icon": "📰",
+     "questionCount": 78,
+     "topics": [
+      "Science",
+      "National",
+      "International",
+      "Sports",
+      "Economy"
+     ]
+    }
+   ],
+   "questionCount": 1154,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2024,
+    2023,
+    2022,
+    2021,
+    2020
+   ],
+   "durationMin": 120
+  },
+  {
+   "id": "ssc-cgl",
+   "name": "SSC CGL",
+   "shortName": "SSC CGL",
+   "category": "ssc",
+   "icon": "📋",
+   "description": "SSC CGL Tier 1 examination.",
+   "color": "#3B82F6",
+   "gradient": "linear-gradient(135deg, #3B82F6 0%, #6366F1 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 2500000,
+   "subjects": [
+    {
+     "id": "general-intelligence-reasoning",
+     "name": "General Intelligence & Reasoning",
+     "icon": "🧠",
+     "questionCount": 0,
+     "topics": [
+      "Analogy",
+      "Series",
+      "Coding Decoding",
+      "Blood Relations",
+      "Direction Sense",
+      "Ranking",
+      "Syllogism",
+      "Venn Diagram",
+      "Mirror/Water Image",
+      "Paper Folding",
+      "Figure Counting",
+      "Odd One Out"
+     ]
+    },
+    {
+     "id": "general-awareness",
+     "name": "General Awareness",
+     "icon": "🌍",
+     "questionCount": 0,
+     "topics": [
+      "History",
+      "Polity",
+      "Geography",
+      "Economics",
+      "Science",
+      "Current Affairs",
+      "Static GK"
+     ]
+    },
+    {
+     "id": "quantitative-aptitude",
+     "name": "Quantitative Aptitude",
+     "icon": "📊",
+     "questionCount": 0,
+     "topics": [
+      "Number System",
+      "Percentage",
+      "Profit & Loss",
+      "Time & Work",
+      "Speed & Distance",
+      "Interest",
+      "Mensuration",
+      "Algebra",
+      "Average",
+      "Ratio",
+      "Data Interpretation",
+      "Trigonometry"
+     ]
+    },
+    {
+     "id": "english-comprehension",
+     "name": "English Comprehension",
+     "icon": "📖",
+     "questionCount": 0,
+     "topics": [
+      "Error Detection",
+      "Synonyms",
+      "Antonyms",
+      "Idioms",
+      "Spelling",
+      "Voice",
+      "Speech",
+      "Sentence Improvement",
+      "Fill In Blanks",
+      "Reading Comprehension",
+      "Cloze Test",
+      "One Word",
+      "Homonyms",
+      "Rearrangement"
+     ]
+    },
+    {
+     "id": "reasoning",
+     "name": "Reasoning",
+     "icon": "🧠",
+     "questionCount": 253,
+     "topics": [
+      "Analogy",
+      "Coding Decoding",
+      "Direction",
+      "Odd One Out",
+      "Blood Relations",
+      "Mirror Image",
+      "Paper Folding",
+      "Venn Diagram",
+      "Figure Counting",
+      "Embedded Figures",
+      "Series",
+      "Address Matching",
+      "Ranking",
+      "Syllogism",
+      "Water Image"
+     ]
+    },
+    {
+     "id": "ga",
+     "name": "GA",
+     "icon": "📚",
+     "questionCount": 260,
+     "topics": [
+      "Science",
+      "History",
+      "Economics",
+      "Polity",
+      "Geography",
+      "Static GK",
+      "Current Affairs"
+     ]
+    },
+    {
+     "id": "quant",
+     "name": "Quant",
+     "icon": "📊",
+     "questionCount": 292,
+     "topics": [
+      "DI",
+      "Simplification",
+      "Profit & Loss",
+      "Number System",
+      "Ratio",
+      "Time & Work",
+      "Algebra",
+      "Speed Distance",
+      "Percentage",
+      "Trigonometry",
+      "Interest",
+      "Mensuration",
+      "Average"
+     ]
+    },
+    {
+     "id": "english",
+     "name": "English",
+     "icon": "📖",
+     "questionCount": 245,
+     "topics": [
+      "Idioms",
+      "Rearrangement",
+      "Synonyms",
+      "Error Detection",
+      "Common Errors",
+      "Antonyms",
+      "Voice",
+      "One Word",
+      "Fill In Blanks",
+      "Improvement",
+      "Homonyms",
+      "Speech",
+      "Cloze Test",
+      "Spelling",
+      "Reading Comprehension"
+     ]
+    }
+   ],
+   "questionCount": 1050,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "ssc-chsl",
+   "name": "SSC CHSL",
+   "shortName": "SSC CHSL",
+   "category": "ssc",
+   "icon": "🗂️",
+   "description": "SSC CHSL Tier 1 examination.",
+   "color": "#0EA5E9",
+   "gradient": "linear-gradient(135deg, #0EA5E9 0%, #22D3EE 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 1500000,
+   "subjects": [
+    {
+     "id": "general-intelligence-reasoning",
+     "name": "General Intelligence & Reasoning",
+     "icon": "🧠",
+     "questionCount": 0,
+     "topics": [
+      "Analogy",
+      "Series",
+      "Coding Decoding",
+      "Blood Relations",
+      "Direction",
+      "Ranking",
+      "Syllogism",
+      "Venn Diagram",
+      "Mirror Image",
+      "Paper Folding",
+      "Figure Counting",
+      "Odd One Out",
+      "Dictionary Order"
+     ]
+    },
+    {
+     "id": "general-awareness",
+     "name": "General Awareness",
+     "icon": "🌍",
+     "questionCount": 0,
+     "topics": [
+      "History",
+      "Polity",
+      "Geography",
+      "Economics",
+      "Science",
+      "Current Affairs",
+      "Static GK"
+     ]
+    },
+    {
+     "id": "quantitative-aptitude",
+     "name": "Quantitative Aptitude",
+     "icon": "📊",
+     "questionCount": 0,
+     "topics": [
+      "Number System",
+      "Percentage",
+      "Profit & Loss",
+      "Time & Work",
+      "Speed & Distance",
+      "Interest",
+      "Mensuration",
+      "Algebra",
+      "Average",
+      "Ratio",
+      "Data Interpretation",
+      "Trigonometry",
+      "Simplification"
+     ]
+    },
+    {
+     "id": "english-comprehension",
+     "name": "English Comprehension",
+     "icon": "📖",
+     "questionCount": 0,
+     "topics": [
+      "Error Detection",
+      "Synonyms",
+      "Antonyms",
+      "Idioms",
+      "Spelling",
+      "Voice",
+      "Speech",
+      "Improvement",
+      "Fill In Blanks",
+      "Reading Comprehension",
+      "Cloze Test",
+      "One Word",
+      "Homonyms",
+      "Rearrangement",
+      "Common Errors"
+     ]
+    },
+    {
+     "id": "reasoning",
+     "name": "Reasoning",
+     "icon": "🧠",
+     "questionCount": 227,
+     "topics": [
+      "Odd One Out",
+      "Ranking",
+      "Series",
+      "Coding Decoding",
+      "Venn Diagram",
+      "Syllogism",
+      "Analogy",
+      "Direction",
+      "Dictionary Order",
+      "Figure Counting",
+      "Mirror Image",
+      "Water Image",
+      "Blood Relations",
+      "Address Matching",
+      "Paper Folding"
+     ]
+    },
+    {
+     "id": "ga",
+     "name": "GA",
+     "icon": "📚",
+     "questionCount": 253,
+     "topics": [
+      "Economics",
+      "Polity",
+      "Static GK",
+      "Science",
+      "History",
+      "Geography",
+      "Current Affairs"
+     ]
+    },
+    {
+     "id": "quant",
+     "name": "Quant",
+     "icon": "📊",
+     "questionCount": 239,
+     "topics": [
+      "Percentage",
+      "Speed Distance",
+      "Ratio",
+      "Interest",
+      "Average",
+      "Simplification",
+      "Number System",
+      "Time & Work",
+      "Mensuration",
+      "Profit & Loss",
+      "DI",
+      "Algebra",
+      "Trigonometry"
+     ]
+    },
+    {
+     "id": "english",
+     "name": "English",
+     "icon": "📖",
+     "questionCount": 238,
+     "topics": [
+      "Synonyms",
+      "Antonyms",
+      "Cloze Test",
+      "Fill In Blanks",
+      "One Word",
+      "Speech",
+      "Idioms",
+      "Voice",
+      "Error Detection",
+      "Reading Comprehension",
+      "Common Errors",
+      "Improvement",
+      "Rearrangement",
+      "Homonyms",
+      "Spelling"
+     ]
+    }
+   ],
+   "questionCount": 957,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2025,
+    2024,
+    2023,
+    2022,
+    2021
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "ssc_gd",
+   "name": "SSC GD Constable",
+   "shortName": "SSC GD",
+   "category": "ssc",
+   "icon": "🛡️",
+   "description": "SSC GD Constable exam preparation with 10 full-length mock tests and 5 PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#EF4444",
+   "gradient": "linear-gradient(135deg, #EF4444 0%, #F97316 100%)",
+   "difficulty": "Easy",
+   "candidateBase": 2500000,
+   "subjects": [
+    {
+     "id": "general-intelligence-and-reasoning",
+     "name": "General Intelligence And Reasoning",
+     "icon": "🧠",
+     "questionCount": 257,
+     "topics": [
+      "Part A: General Intelligence And Reasoning"
+     ]
+    },
+    {
+     "id": "general-knowledge-and-general-awareness",
+     "name": "General Knowledge And General Awareness",
+     "icon": "🌍",
+     "questionCount": 273,
+     "topics": [
+      "Part B: General Knowledge And General Awareness"
+     ]
+    },
+    {
+     "id": "elementary-mathematics",
+     "name": "Elementary Mathematics",
+     "icon": "➗",
+     "questionCount": 261,
+     "topics": [
+      "Part C: Elementary Mathematics"
+     ]
+    },
+    {
+     "id": "english",
+     "name": "English",
+     "icon": "📖",
+     "questionCount": 268,
+     "topics": [
+      "Part D: English"
+     ]
+    },
+    {
+     "id": "hindi",
+     "name": "Hindi",
+     "icon": "📜",
+     "questionCount": 99,
+     "topics": [
+      "Part D: Hindi"
+     ]
+    }
+   ],
+   "questionCount": 1158,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2025
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "ssc_mts",
+   "name": "SSC MTS (Multi-Tasking Staff) Tier 1",
+   "shortName": "SSC MTS",
+   "category": "ssc",
+   "icon": "🧰",
+   "description": "SSC MTS Tier 1 exam preparation with 10 full-length mock tests and 5 PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#F59E0B",
+   "gradient": "linear-gradient(135deg, #F59E0B 0%, #EAB308 100%)",
+   "difficulty": "Easy",
+   "candidateBase": 2000000,
+   "subjects": [
+    {
+     "id": "numerical-and-mathematical-ability",
+     "name": "Numerical And Mathematical Ability",
+     "icon": "➗",
+     "questionCount": 279,
+     "topics": [
+      "Numerical And Mathematical Ability"
+     ]
+    },
+    {
+     "id": "reasoning-ability-and-problem-solving",
+     "name": "Reasoning Ability And Problem Solving",
+     "icon": "🧠",
+     "questionCount": 267,
+     "topics": [
+      "Reasoning Ability And Problem Solving"
+     ]
+    },
+    {
+     "id": "general-awareness",
+     "name": "General Awareness",
+     "icon": "🌍",
+     "questionCount": 334,
+     "topics": [
+      "General Awareness"
+     ]
+    },
+    {
+     "id": "english-language-and-comprehension",
+     "name": "English Language And Comprehension",
+     "icon": "📖",
+     "questionCount": 350,
+     "topics": [
+      "English Language And Comprehension"
+     ]
+    }
+   ],
+   "questionCount": 1230,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2026
+   ],
+   "durationMin": 90
+  },
+  {
+   "id": "ibps_po",
+   "name": "IBPS PO",
+   "shortName": "IBPS PO",
+   "category": "banking",
+   "icon": "🏦",
+   "description": "IBPS PO Prelims exam preparation with 10 full-length mock tests and 5 PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#6366F1",
+   "gradient": "linear-gradient(135deg, #6366F1 0%, #0EA5E9 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 1000000,
+   "subjects": [
+    {
+     "id": "reasoning-ability",
+     "name": "Reasoning Ability",
+     "icon": "🧠",
+     "questionCount": 400,
+     "topics": [
+      "Reasoning Ability"
+     ]
+    },
+    {
+     "id": "english-language",
+     "name": "English Language",
+     "icon": "📖",
+     "questionCount": 321,
+     "topics": [
+      "English Language"
+     ]
+    },
+    {
+     "id": "quantitative-aptitude",
+     "name": "Quantitative Aptitude",
+     "icon": "📊",
+     "questionCount": 363,
+     "topics": [
+      "Quantitative Aptitude"
+     ]
+    }
+   ],
+   "questionCount": 1084,
+   "mockCount": 10,
+   "pyqCount": 3,
+   "pyqYears": [
+    2025,
+    2023
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "ibps_clerk",
+   "name": "IBPS Clerk",
+   "shortName": "IBPS Clerk",
+   "category": "banking",
+   "icon": "🏛️",
+   "description": "IBPS Clerk Prelims exam preparation with 10 full-length mock tests and 5 PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#8B5CF6",
+   "gradient": "linear-gradient(135deg, #8B5CF6 0%, #6366F1 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 1000000,
+   "subjects": [
+    {
+     "id": "reasoning-ability",
+     "name": "Reasoning Ability",
+     "icon": "🧠",
+     "questionCount": 454,
+     "topics": [
+      "Reasoning Ability"
+     ]
+    },
+    {
+     "id": "numerical-ability",
+     "name": "Numerical Ability",
+     "icon": "📊",
+     "questionCount": 409,
+     "topics": [
+      "Numerical Ability"
+     ]
+    },
+    {
+     "id": "english-language",
+     "name": "English Language",
+     "icon": "📖",
+     "questionCount": 373,
+     "topics": [
+      "English Language"
+     ]
+    }
+   ],
+   "questionCount": 1236,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2024,
+    2022
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "sbi_po",
+   "name": "SBI PO",
+   "shortName": "SBI PO",
+   "category": "banking",
+   "icon": "💳",
+   "description": "SBI PO Prelims exam preparation with 10 full-length mock tests and 5 PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#2563EB",
+   "gradient": "linear-gradient(135deg, #2563EB 0%, #7C3AED 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 1500000,
+   "subjects": [
+    {
+     "id": "reasoning-ability",
+     "name": "Reasoning Ability",
+     "icon": "🧠",
+     "questionCount": 448,
+     "topics": [
+      "Reasoning Ability"
+     ]
+    },
+    {
+     "id": "quantitative-aptitude",
+     "name": "Quantitative Aptitude",
+     "icon": "📊",
+     "questionCount": 448,
+     "topics": [
+      "Quantitative Aptitude"
+     ]
+    },
+    {
+     "id": "english-language",
+     "name": "English Language",
+     "icon": "📖",
+     "questionCount": 374,
+     "topics": [
+      "English Language"
+     ]
+    }
+   ],
+   "questionCount": 1270,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2024,
+    2023
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "sbi_clerk",
+   "name": "SBI Clerk",
+   "shortName": "SBI Clerk",
+   "category": "banking",
+   "icon": "💼",
+   "description": "SBI Clerk Prelims exam preparation with 10 full-length mock tests and 5 PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#4F46E5",
+   "gradient": "linear-gradient(135deg, #4F46E5 0%, #818CF8 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 1500000,
+   "subjects": [
+    {
+     "id": "reasoning-ability",
+     "name": "Reasoning Ability",
+     "icon": "🧠",
+     "questionCount": 388,
+     "topics": [
+      "Reasoning Ability"
+     ]
+    },
+    {
+     "id": "numerical-ability",
+     "name": "Numerical Ability",
+     "icon": "📊",
+     "questionCount": 438,
+     "topics": [
+      "Numerical Ability"
+     ]
+    },
+    {
+     "id": "english-language",
+     "name": "English Language",
+     "icon": "📖",
+     "questionCount": 399,
+     "topics": [
+      "English Language"
+     ]
+    }
+   ],
+   "questionCount": 1225,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [
+    2024
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "rbi_assistant",
+   "name": "RBI Assistant",
+   "shortName": "RBI Asst.",
+   "category": "banking",
+   "icon": "🪙",
+   "description": "RBI Assistant Prelims exam preparation with full-length mock tests and PYQ-based sets, bilingual (English + Hindi).",
+   "color": "#059669",
+   "gradient": "linear-gradient(135deg, #059669 0%, #14B8A6 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 500000,
+   "subjects": [
+    {
+     "id": "reasoning-ability",
+     "name": "Reasoning Ability",
+     "icon": "🧠",
+     "questionCount": 359,
+     "topics": [
+      "Reasoning Ability"
+     ]
+    },
+    {
+     "id": "numerical-ability",
+     "name": "Numerical Ability",
+     "icon": "📊",
+     "questionCount": 369,
+     "topics": [
+      "Numerical Ability"
+     ]
+    },
+    {
+     "id": "english-language",
+     "name": "English Language",
+     "icon": "📖",
+     "questionCount": 313,
+     "topics": [
+      "English Language"
+     ]
+    }
+   ],
+   "questionCount": 1041,
+   "mockCount": 8,
+   "pyqCount": 3,
+   "pyqYears": [
+    2026
+   ],
+   "durationMin": 60
+  },
+  {
+   "id": "rbi_grade_b",
+   "name": "RBI Grade B",
+   "shortName": "RBI Gr. B",
+   "category": "banking",
+   "icon": "🏦",
+   "description": "RBI Grade B Phase 1 exam preparation with 10 full-length mock tests and 5 PYQ-based sets.",
+   "color": "#0F766E",
+   "gradient": "linear-gradient(135deg, #0F766E 0%, #0EA5E9 100%)",
+   "difficulty": "Hard",
+   "candidateBase": 90000,
+   "subjects": [
+    {
+     "id": "general-awareness",
+     "name": "General Awareness",
+     "icon": "🌍",
+     "questionCount": 437,
+     "topics": [
+      "General Awareness"
+     ]
+    },
+    {
+     "id": "reasoning-ability",
+     "name": "Reasoning Ability",
+     "icon": "🧠",
+     "questionCount": 321,
+     "topics": [
+      "Reasoning Ability"
+     ]
+    },
+    {
+     "id": "english-language",
+     "name": "English Language",
+     "icon": "📖",
+     "questionCount": 176,
+     "topics": [
+      "English Language"
+     ]
+    },
+    {
+     "id": "quantitative-aptitude",
+     "name": "Quantitative Aptitude",
+     "icon": "📊",
+     "questionCount": 160,
+     "topics": [
+      "Quantitative Aptitude"
+     ]
+    }
+   ],
+   "questionCount": 1094,
+   "mockCount": 5,
+   "pyqCount": 5,
+   "pyqYears": [
+    2025,
+    2024
+   ],
+   "durationMin": 120
+  },
+  {
+   "id": "nda",
+   "name": "NDA",
+   "shortName": "NDA",
+   "category": "defense",
+   "icon": "🎖️",
+   "description": "NDA exam preparation with full-length mock tests.",
+   "color": "#22C55E",
+   "gradient": "linear-gradient(135deg, #22C55E 0%, #16A34A 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 400000,
+   "subjects": [
+    {
+     "id": "mathematics",
+     "name": "Mathematics",
+     "icon": "➗",
+     "questionCount": 474,
+     "topics": [
+      "Mathematics"
+     ]
+    },
+    {
+     "id": "english",
+     "name": "English",
+     "icon": "📖",
+     "questionCount": 200,
+     "topics": [
+      "English"
+     ]
+    },
+    {
+     "id": "physics",
+     "name": "Physics",
+     "icon": "⚛️",
+     "questionCount": 100,
+     "topics": [
+      "Physics"
+     ]
+    },
+    {
+     "id": "chemistry",
+     "name": "Chemistry",
+     "icon": "🧪",
+     "questionCount": 60,
+     "topics": [
+      "Chemistry"
+     ]
+    },
+    {
+     "id": "history",
+     "name": "History",
+     "icon": "🏺",
+     "questionCount": 80,
+     "topics": [
+      "History"
+     ]
+    },
+    {
+     "id": "geography",
+     "name": "Geography",
+     "icon": "🗺️",
+     "questionCount": 80,
+     "topics": [
+      "Geography"
+     ]
+    },
+    {
+     "id": "general-science",
+     "name": "General Science",
+     "icon": "🔬",
+     "questionCount": 40,
+     "topics": [
+      "General Science"
+     ]
+    },
+    {
+     "id": "current-affairs",
+     "name": "Current Affairs",
+     "icon": "📰",
+     "questionCount": 40,
+     "topics": [
+      "Current Affairs"
+     ]
+    }
+   ],
+   "questionCount": 1074,
+   "mockCount": 4,
+   "pyqCount": 0,
+   "pyqYears": [],
+   "durationMin": 300
+  },
+  {
+   "id": "ca_foundation",
+   "name": "CA Foundation",
+   "shortName": "CA Fdn",
+   "category": "finance",
+   "icon": "📒",
+   "description": "CA Foundation exam preparation with mock tests and PYQ sets for all 4 papers per latest ICAI syllabus.",
+   "color": "#D97706",
+   "gradient": "linear-gradient(135deg, #D97706 0%, #F59E0B 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 250000,
+   "subjects": [
+    {
+     "id": "accounting",
+     "name": "Accounting",
+     "icon": "📒",
+     "questionCount": 979,
+     "topics": [
+      "Theoretical Framework",
+      "Accounting Process",
+      "Accounting General",
+      "Bank Reconciliation",
+      "Partnership Accounts",
+      "Final Accounts",
+      "Npo Company Computerized",
+      "Depreciation",
+      "Company Accounts",
+      "Inventory",
+      "Non Profit",
+      "Inventories",
+      "Computerized Accounting",
+      "Partnership"
+     ]
+    },
+    {
+     "id": "business-laws",
+     "name": "Business Laws",
+     "icon": "📑",
+     "questionCount": 169,
+     "topics": [
+      "Companies Act",
+      "Sale Of Goods Act",
+      "Contract Act",
+      "Negotiable Instruments Act",
+      "Llp Act",
+      "Law General",
+      "Partnership Act"
+     ]
+    },
+    {
+     "id": "quantitative-aptitude",
+     "name": "Quantitative Aptitude",
+     "icon": "📊",
+     "questionCount": 277,
+     "topics": [
+      "Time Value Of Money",
+      "Logical Reasoning",
+      "Statistics",
+      "Logarithms",
+      "Equations",
+      "Ratio Proportion",
+      "Permutations Combinations",
+      "Set Theory",
+      "Quadratic Equations"
+     ]
+    },
+    {
+     "id": "business-economics",
+     "name": "Business Economics",
+     "icon": "📈",
+     "questionCount": 183,
+     "topics": [
+      "Economics General",
+      "Demand Supply",
+      "Production Cost",
+      "Market Structures",
+      "Nature Scope",
+      "International Trade",
+      "Public Finance",
+      "Money Banking",
+      "National Income",
+      "Business Cycles"
+     ]
+    }
+   ],
+   "questionCount": 1608,
+   "mockCount": 10,
+   "pyqCount": 8,
+   "pyqYears": [],
+   "durationMin": 180
+  },
+  {
+   "id": "ugc_net_paper1",
+   "name": "UGC NET Paper 1",
+   "shortName": "UGC NET",
+   "category": "teaching",
+   "icon": "🎓",
+   "description": "UGC NET Paper 1 exam preparation with 10 full-length mock tests and 5 PYQ-style sets.",
+   "color": "#8B5CF6",
+   "gradient": "linear-gradient(135deg, #8B5CF6 0%, #6366F1 100%)",
+   "difficulty": "Moderate",
+   "candidateBase": 500000,
+   "subjects": [
+    {
+     "id": "teaching-aptitude",
+     "name": "Teaching Aptitude",
+     "icon": "📊",
+     "questionCount": 72,
+     "topics": [
+      "Teaching Aptitude"
+     ]
+    },
+    {
+     "id": "research-aptitude",
+     "name": "Research Aptitude",
+     "icon": "📊",
+     "questionCount": 72,
+     "topics": [
+      "Research Aptitude"
+     ]
+    },
+    {
+     "id": "comprehension",
+     "name": "Comprehension",
+     "icon": "📚",
+     "questionCount": 69,
+     "topics": [
+      "Comprehension"
+     ]
+    },
+    {
+     "id": "communication",
+     "name": "Communication",
+     "icon": "📚",
+     "questionCount": 71,
+     "topics": [
+      "Communication"
+     ]
+    },
+    {
+     "id": "mathematical-reasoning-and-aptitude",
+     "name": "Mathematical Reasoning And Aptitude",
+     "icon": "➗",
+     "questionCount": 68,
+     "topics": [
+      "Mathematical Reasoning And Aptitude"
+     ]
+    },
+    {
+     "id": "logical-reasoning",
+     "name": "Logical Reasoning",
+     "icon": "🧠",
+     "questionCount": 71,
+     "topics": [
+      "Logical Reasoning"
+     ]
+    },
+    {
+     "id": "data-interpretation",
+     "name": "Data Interpretation",
+     "icon": "📊",
+     "questionCount": 69,
+     "topics": [
+      "Data Interpretation"
+     ]
+    },
+    {
+     "id": "information-and-communication-technology-ict",
+     "name": "Information And Communication Technology (ICT)",
+     "icon": "📚",
+     "questionCount": 68,
+     "topics": [
+      "Information And Communication Technology (ICT)"
+     ]
+    },
+    {
+     "id": "people-development-and-environment",
+     "name": "People, Development And Environment",
+     "icon": "📚",
+     "questionCount": 69,
+     "topics": [
+      "People, Development And Environment"
+     ]
+    },
+    {
+     "id": "higher-education-system",
+     "name": "Higher Education System",
+     "icon": "📚",
+     "questionCount": 72,
+     "topics": [
+      "Higher Education System"
+     ]
+    }
+   ],
+   "questionCount": 701,
+   "mockCount": 10,
+   "pyqCount": 5,
+   "pyqYears": [],
+   "durationMin": 60
+  }
+ ],
+ "categories": [
+  {
+   "id": "engineering",
+   "label": "Engineering",
+   "icon": "⚙️"
+  },
+  {
+   "id": "medical",
+   "label": "Medical",
+   "icon": "🩺"
+  },
+  {
+   "id": "civil-services",
+   "label": "Civil Services",
+   "icon": "🏛️"
+  },
+  {
+   "id": "ssc",
+   "label": "SSC",
+   "icon": "📋"
+  },
+  {
+   "id": "banking",
+   "label": "Banking",
+   "icon": "🏦"
+  },
+  {
+   "id": "defense",
+   "label": "Defense",
+   "icon": "🎖️"
+  },
+  {
+   "id": "finance",
+   "label": "Finance & CA",
+   "icon": "💼"
+  },
+  {
+   "id": "teaching",
+   "label": "Teaching",
+   "icon": "🎓"
+  }
+ ],
+ "plans": [
+  {
+   "id": "testdone-pass",
+   "name": "TestDone Pass",
+   "shortName": "Pass",
+   "price": 49,
+   "period": "month",
+   "color": "#6366F1",
+   "gradient": "linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%)",
+   "tagline": "Everything you need to ace your exam",
+   "features": [
+    "All 162+ mock tests across 18 exams",
+    "Full 18.6k+ real question bank",
+    "80 previous year question sets",
+    "Detailed solutions for every question",
+    "Performance analytics & trends",
+    "AI-powered insights",
+    "Topper comparison & percentile",
+    "Exam-realistic negative marking"
+   ]
+  },
+  {
+   "id": "testdone-pass-ultra",
+   "name": "TestDone Pass Ultra",
+   "shortName": "Ultra",
+   "price": 59,
+   "period": "month",
+   "color": "#A78BFA",
+   "gradient": "linear-gradient(135deg, #8B5CF6 0%, #EC4899 100%)",
+   "tagline": "Premium video lessons + everything in Pass",
+   "features": [
+    "Everything in TestDone Pass",
+    "Topic-wise HD video lessons (coming soon)",
+    "24/7 AI doubt-solving tutor",
+    "Live tournaments with toppers",
+    "Premium handwritten notes",
+    "Personalized study plan",
+    "Priority doubt resolution",
+    "Early access to new features"
+   ],
+   "popular": true
+  }
+ ],
+ "totalQuestions": 18649,
+ "totalMockTests": 162,
+ "totalPyqSets": 80,
+ "bundledVersions": {
+  "jee-main": 1,
+  "ugc_net_paper1": 1,
+  "rbi_assistant": 1,
+  "ibps_po": 1,
+  "sbi_po": 1,
+  "rbi_grade_b": 1,
+  "ssc-chsl": 1,
+  "ca_foundation": 1,
+  "ssc_gd": 1,
+  "sbi_clerk": 1,
+  "ibps_clerk": 1,
+  "gate-cse": 1,
+  "neet": 1,
+  "ssc_mts": 1,
+  "nda": 1,
+  "jee-advanced": 1,
+  "upsc": 1,
+  "ssc-cgl": 1
+ }
+}

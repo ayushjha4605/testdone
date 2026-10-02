@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "256822753228",
+    "project_id": "testdone-6dbe0",
+    "storage_bucket": "testdone-6dbe0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256822753228:android:dab0d097d1f3f86a3b4f69",
+        "android_client_info": {
+          "package_name": "com.testdone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256822753228-712mcjhna2sa9dcpssj7bjg0mmlq75mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6Tg7GDl5vTgM3dIipMaDm2pn7DWfY3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
